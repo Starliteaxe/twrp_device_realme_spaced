@@ -145,3 +145,11 @@ TW_NO_HAPTICS := true
 # Debug
 TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
+
+
+# SHRP build flags
+SHRP_DEVICE_CODE := spaced
+SHRP_EXPRESS := true
+SHRP_DARK := true
+SHRP_FLASH := 1
+SHRP_EDL_MODE := 1
